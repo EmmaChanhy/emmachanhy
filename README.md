@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Emma 👋
+
+I'm a Data Engineer.
+
+## 📦 Toolbox
+
+☁️ **Cloud:** `AWS` 
+ 
+💻 **Programming language:** `Python` `Spark (PySpark)` `SQL`
+
+📊 **Visualisation:** `Tableau`
 
 <!--
 **EmmaChanhy/emmachanhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
